@@ -9,8 +9,10 @@ Before you begin, make sure you have the following prerequisites:
 - Python 3.7 or higher
 - An API key for the ChatGPT API from OpenAI
 - Required Python libraries, which can be installed using `pip`:
-  - `openai` (for interacting with the ChatGPT API)
+  - `openai` or `pip install --upgrade openai` (for interacting with the ChatGPT API)
   - Other dependencies as needed for your specific project
+  - `pip install python-dotenv` for using .env for development
+  - `pip install gradio` for web application environment
 
 ## Installation
 1. Clone this repository or download the source code to your local machine.

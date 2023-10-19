@@ -14,8 +14,3 @@ Before you begin, make sure you have the following prerequisites:
   - `pip install python-dotenv` for using .env for development
   - `pip install gradio` for web application environment
 
-## Installation
-1. Clone this repository or download the source code to your local machine.
-
-```bash
-git clone https://github.com/your-username/your-chatbot-repo.git
